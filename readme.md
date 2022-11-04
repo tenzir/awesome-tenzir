@@ -34,6 +34,7 @@ A curated list of awesome things related to <a href='https://vast.io/'>VAST</a>
 
 ## Community Projects
 
+- [vast2nix](https://github.com/GTrunSec/vast2nix) -  A Nix-based DevOps framework for defining declarative and reproducible environments and jobs. 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
