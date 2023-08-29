@@ -1,14 +1,14 @@
 <p align="center">
 
-<img src="./assets/vast-white.svg#gh-dark-mode-only" width="75%" alt="VAST">
-<img src="./assets/vast-black.svg#gh-light-mode-only" width="75%" alt="VAST">
+<img src="./assets/vast-white.svg#gh-dark-mode-only" width="75%" alt="Tenzir">
+<img src="./assets/vast-black.svg#gh-light-mode-only" width="75%" alt="Tenzir">
 
 </p>
 
-<h2 align='center'>Awesome VAST</h2>
+<h2 align='center'>Awesome Tenzir</h2>
 
 <p align='center'>
-A curated list of awesome things related to <a href='https://vast.io/'>VAST</a>
+A curated list of awesome things related to <a href='https://docs.tenzir.com/'>Tenzir</a>
 <br><br>
 
 <a href='https://github.com/sindresorhus/awesome'>
@@ -24,13 +24,13 @@ A curated list of awesome things related to <a href='https://vast.io/'>VAST</a>
 
 ## Official Resources
 
-- [Getting Started](https://github.com/tenzir/vast#getting-started)
-- [Documentation](https://vast.io/docs/about)
-- [GitHub Repo](https://github.com/tenzir/vast)
-- [Release Notes](https://github.com/tenzir/vast/blob/master/CHANGELOG.md)
-- [Roadmap](https://github.com/orgs/tenzir/projects/8/views/1)
-- [Blog](https://vast.io/blog)
-- [Community](https://slack.tenzir.com/)
+- [Getting Started](https://docs.tenzir.com/get-started)
+- [Documentation](https://docs.tenzir.com)
+- [GitHub Repo](https://github.com/tenzir/tenzir)
+- [Release Notes](https://docs.tenzir.com/changelog)
+- [Roadmap](https://docs.tenzir.com/roadmap)
+- [Blog](https://docs.tenzir.com/blog)
+- [Community](https://discord.tenzir.com/)
 
 ## Community Projects
 
