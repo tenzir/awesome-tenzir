@@ -1,8 +1,6 @@
 <p align="center">
-
-<img src="./assets/vast-white.svg#gh-dark-mode-only" width="75%" alt="Tenzir">
-<img src="./assets/vast-black.svg#gh-light-mode-only" width="75%" alt="Tenzir">
-
+<img src="./assets/tenzir-white.svg#gh-dark-mode-only" width="60%" alt="Tenzir">
+<img src="./assets/tenzir-black.svg#gh-light-mode-only" width="60%" alt="Tenzir">
 </p>
 
 <h2 align='center'>Awesome Tenzir</h2>
